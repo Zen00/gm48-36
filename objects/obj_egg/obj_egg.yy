@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_egg",
-    "path": "sprites/spr_egg/spr_egg.yy",
+    "name": "spr_skeleton_egg",
+    "path": "sprites/spr_skeleton_egg/spr_skeleton_egg.yy",
   },
   "solid": false,
   "visible": true,

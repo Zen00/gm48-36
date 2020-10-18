@@ -16,8 +16,10 @@ icon_ = spr_icon;
 width_ = 256;
 height_ = 92;
 pressed_ = false;
+hover_ = false;
 affordable_ = false;
 currency_type_ = CURRENCY_TYPES.joules;
+image_speed = 0;
 
 function update_purchase_price() {
 	purchase_price_ = base_cost_ * (power(growth_rate_, total_owned_) * (power(growth_rate_, obj_game.purchase_amount_) - 1)) / (growth_rate_ - 1); //This will cause a div/0 if your growth rate is 1, amongst other problems

@@ -2,18 +2,21 @@
 
 enum CURRENCY_TYPES {
 	zenny,
-	joules
+	joules,
+	hatch_progress
 }
 enum GENERATORS {
-	sticks,
-	straw,
+	egg,
+	comfort,
+	music,
+	warmth,
 	type_number
 }
 #macro SEC game_get_speed(gamespeed_fps)
 
 //Stats
 global.CURRENCIES = ds_list_create();
-global.CURRENCIES[| CURRENCY_TYPES.joules] = 1000000000;
+global.CURRENCIES[| CURRENCY_TYPES.joules] = 0;
 
 //Discounts
 global.GENERATOR_DISCOUNTS = ds_list_create();

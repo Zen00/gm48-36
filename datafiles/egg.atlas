@@ -1,0 +1,41 @@
+
+egg.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+egg base
+  rotate: false
+  xy: 1143, 8
+  size: 330, 445
+  orig: 330, 445
+  offset: 0, 0
+  index: -1
+egg outline
+  rotate: false
+  xy: 806, 2
+  size: 335, 451
+  orig: 335, 451
+  offset: 0, 0
+  index: -1
+egg pattern
+  rotate: false
+  xy: 1475, 12
+  size: 328, 441
+  orig: 328, 441
+  offset: 0, 0
+  index: -1
+hay back
+  rotate: false
+  xy: 2, 14
+  size: 802, 439
+  orig: 802, 439
+  offset: 0, 0
+  index: -1
+hay front
+  rotate: true
+  xy: 1805, 25
+  size: 428, 177
+  orig: 428, 177
+  offset: 0, 0
+  index: -1
