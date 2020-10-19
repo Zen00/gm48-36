@@ -1,0 +1,193 @@
+
+egg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+crack 1
+  rotate: false
+  xy: 1924, 1943
+  size: 42, 52
+  orig: 42, 52
+  offset: 0, 0
+  index: -1
+crack 2
+  rotate: true
+  xy: 2, 2
+  size: 71, 150
+  orig: 71, 150
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 2, 75
+  size: 1920, 1920
+  orig: 1920, 1920
+  offset: 0, 0
+  index: -1
+
+egg2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+crack 3
+  rotate: false
+  xy: 952, 1233
+  size: 242, 195
+  orig: 242, 195
+  offset: 0, 0
+  index: -1
+egg base
+  rotate: false
+  xy: 892, 18
+  size: 329, 445
+  orig: 329, 445
+  offset: 0, 0
+  index: -1
+egg outline
+  rotate: true
+  xy: 439, 2
+  size: 335, 451
+  orig: 335, 451
+  offset: 0, 0
+  index: -1
+fragment base
+  rotate: false
+  xy: 2, 1613
+  size: 1103, 206
+  orig: 1103, 206
+  offset: 0, 0
+  index: -1
+fragment outlines
+  rotate: false
+  xy: 2, 1821
+  size: 1122, 225
+  orig: 1122, 225
+  offset: 0, 0
+  index: -1
+fragment pattern 01
+  rotate: true
+  xy: 2, 335
+  size: 1093, 181
+  orig: 1093, 181
+  offset: 0, 0
+  index: -1
+fragment pattern 02
+  rotate: false
+  xy: 2, 1430
+  size: 1098, 181
+  orig: 1098, 181
+  offset: 0, 0
+  index: -1
+fragment pattern 03
+  rotate: true
+  xy: 379, 339
+  size: 1089, 190
+  orig: 1089, 190
+  offset: 0, 0
+  index: -1
+fragment pattern 04
+  rotate: true
+  xy: 185, 338
+  size: 1090, 192
+  orig: 1090, 192
+  offset: 0, 0
+  index: -1
+hatched base
+  rotate: true
+  xy: 1666, 939
+  size: 329, 361
+  orig: 329, 361
+  offset: 0, 0
+  index: -1
+hatched outline
+  rotate: true
+  xy: 1669, 1270
+  size: 335, 368
+  orig: 335, 368
+  offset: 0, 0
+  index: -1
+hay back
+  rotate: false
+  xy: 1126, 1607
+  size: 802, 439
+  orig: 802, 439
+  offset: 0, 0
+  index: -1
+hay front
+  rotate: false
+  xy: 1223, 767
+  size: 428, 177
+  orig: 428, 177
+  offset: 0, 0
+  index: -1
+light beam
+  rotate: false
+  xy: 571, 465
+  size: 379, 963
+  orig: 379, 963
+  offset: 0, 0
+  index: -1
+pattern 01
+  rotate: true
+  xy: 1223, 946
+  size: 328, 441
+  orig: 328, 441
+  offset: 0, 0
+  index: -1
+pattern 01 hatched
+  rotate: true
+  xy: 1653, 610
+  size: 327, 360
+  orig: 327, 360
+  offset: 0, 0
+  index: -1
+pattern 02
+  rotate: true
+  xy: 2, 3
+  size: 330, 435
+  orig: 330, 435
+  offset: 0, 0
+  index: -1
+pattern 02 hatched
+  rotate: true
+  xy: 1223, 108
+  size: 328, 351
+  orig: 328, 351
+  offset: 0, 0
+  index: -1
+pattern 03
+  rotate: true
+  xy: 1223, 438
+  size: 327, 422
+  orig: 327, 422
+  offset: 0, 0
+  index: -1
+pattern 04
+  rotate: true
+  xy: 1223, 1276
+  size: 329, 444
+  orig: 329, 444
+  offset: 0, 0
+  index: -1
+pattern 04 hatched
+  rotate: true
+  xy: 1647, 279
+  size: 329, 359
+  orig: 329, 359
+  offset: 0, 0
+  index: -1
+
+egg3.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pattern 03 hatched
+  rotate: false
+  xy: 2, 2
+  size: 327, 337
+  orig: 327, 337
+  offset: 0, 0
+  index: -1

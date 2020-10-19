@@ -4,12 +4,10 @@
 event_inherited();
 
 //Cost
-base_cost_ = 50;
-growth_rate_ = 1.12;
-total_owned_ = 0;
+activation_cost_ = 250;
 
 //Production
-base_production_rate_ = 7;
+base_production_rate_ = 0.07;
 
 //Info
 name_ = "Music";
@@ -17,6 +15,4 @@ type_ = GENERATORS.music;
 icon_ = sprite_index;
 width_ = sprite_width;
 height_ = sprite_height;
-currency_type_ = CURRENCY_TYPES.joules;
-
-update_purchase_price();
+audio_ = snd_good_click;

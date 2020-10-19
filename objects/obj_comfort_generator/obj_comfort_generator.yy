@@ -8,8 +8,8 @@
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "par_generator",
-    "path": "objects/par_generator/par_generator.yy",
+    "name": "par_secondary_generator",
+    "path": "objects/par_secondary_generator/par_secondary_generator.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,
@@ -25,13 +25,12 @@
   "physicsShapePoints": [],
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_comfort_generator","path":"objects/obj_comfort_generator/obj_comfort_generator.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"parent":{"name":"obj_comfort_generator","path":"objects/obj_comfort_generator/obj_comfort_generator.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Generators",
-    "path": "folders/Objects/Generators.yy",
+    "name": "Secondary",
+    "path": "folders/Objects/Generators/Secondary.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_comfort_generator",

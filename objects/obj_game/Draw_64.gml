@@ -1,5 +1,6 @@
 /// @description 
 
+/*
 var _alpha = 0.7;
 draw_set_alpha(_alpha);
 draw_set_color(c_black);

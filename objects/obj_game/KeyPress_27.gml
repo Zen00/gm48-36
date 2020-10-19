@@ -1,3 +1,3 @@
-/// @description Game end DEBUG
+/// @description Game end
 
 game_end();
